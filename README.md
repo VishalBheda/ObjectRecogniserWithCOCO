@@ -1,4 +1,4 @@
-# whoru
+# Simple Object Detection from Image using tensorflow-models/coco-ssd
 
 ## Project setup
 ```
